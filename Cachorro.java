@@ -1,7 +1,12 @@
-public class Cachorro {
-	String nome;
-	String raca;
-	char sexo;
-	int idade;
 
-}
+public class Cachorro {
+	
+
+		String nome;
+		String raca;
+		char sexo;
+		int idade;
+
+	}
+
+
